@@ -38,7 +38,7 @@ Updates the displayed dataset to reflect the most current attendance information
 
 ![](Images/Refresh.gif)
 
-## Inference
+## Start Recognition
 
 ![](Images/Real.jpg)
 
