@@ -34,6 +34,8 @@ Allows the user to register new attendees into the system using one-shot learnin
 
 ## Refresh Dateset
 
+Updates the displayed dataset to reflect the most current attendance information and also allows you to edit information in case of mistakes during Registration process.
+
 ![](Images/Refresh.gif)
 
 ## Inference
