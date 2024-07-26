@@ -32,4 +32,6 @@ Allows the user to register new attendees into the system using one-shot learnin
 
 ![](Images/Registration.png)
 
+## Refresh Dateset
 
+![](Images/Refresh.gif)
