@@ -38,7 +38,7 @@ Allows the user to register new attendees into the system using one-shot learnin
 
 ## Inference
 
-![](Images/Real.png)
+![](Images/Real.jpg)
 
 ## Spoof Detection
 
