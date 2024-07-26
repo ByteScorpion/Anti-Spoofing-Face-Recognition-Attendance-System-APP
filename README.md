@@ -25,3 +25,11 @@ The main window of the App is designed to provide an intuitive interface for man
 The central table displays a comprehensive list of attendees, including details such as name, age, sex, position, department, email, phone number, and address. This layout ensures that administrators can quickly access and manage attendee information.
 
 ![](Images/MainWindow.png)
+
+## Registration Process: Adding a New User
+
+Allows the user to register new attendees into the system using one-shot learning technique, so all you need is one clear face image and full file some personal details. This process ensures that new users are quickly and accurately added to the attendance system.
+
+![](Images/Registration.png)
+
+
