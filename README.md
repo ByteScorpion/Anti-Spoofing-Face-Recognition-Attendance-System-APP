@@ -46,3 +46,21 @@ Here I attempted to deceive the model using a picture displayed on my phone and 
 
 ![](Images/Spoof.png)
 
+# Dashboard for analyzing Attendance Data
+
+By clicking on the Dashboard button, the app executes an R script in the background to process the data, and then it displays the updated dashboard seamlessly
+
+## Main Tab : Overview of the Attendance Data
+
+![](Images/TAB1.gif)
+
+## Individual Analysis Tab
+
+![](Images/TAB2.gif)
+
+## Raw Data Tab 
+
+![](Images/TAB3.gif)
+
+
+
