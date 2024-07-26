@@ -9,7 +9,7 @@ The **Anti-Spoofing Face Recognition Attendance System APP** is a hybrid applica
 
 - **Face Recognition**: Utilizes InceptionResnetV1 models, pretrained on VGGFace2 and CASIA-Webface datasets. The system also supports other models such as Facenet512 and Human-beings.
 - **Anti-Spoofing**: Implements MiniFASNet variants including MiniFASNetV1, MiniFASNetV2, MiniFASNetV1SE, and MiniFASNetV2SE, developed by [Silent-Face-Anti-Spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing) 
-- **User Interface**: Built using PyQt for a seamless and interactive experience.
+- **User Interface**: Built using `PyQt` for a seamless and interactive experience.
 - **Data Analysis Dashboard**: Created with R's `shinydashboard` package to provide insightful analysis of attendance data.
 
 ## Main Window
