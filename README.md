@@ -35,3 +35,14 @@ Allows the user to register new attendees into the system using one-shot learnin
 ## Refresh Dateset
 
 ![](Images/Refresh.gif)
+
+## Inference
+
+![](Images/Real.png)
+
+## Spoof Detection
+
+Here I attempted to deceive the model using a picture displayed on my phone and it successfully identified that the image was not a real-time representation (spoof)
+
+![](Images/Spoof.png)
+
